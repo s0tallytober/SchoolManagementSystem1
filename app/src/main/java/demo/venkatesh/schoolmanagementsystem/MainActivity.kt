@@ -2,6 +2,7 @@ package demo.venkatesh.schoolmanagementsystem
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import com.venkatesh.schoolmanagement.R
 
 class MainActivity : AppCompatActivity() {
 
